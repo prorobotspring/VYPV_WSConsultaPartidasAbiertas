@@ -1,0 +1,2 @@
+# VYPV_WSConsultaPartidasAbiertas
+VYPV_WSConsultaPartidasAbiertas
