@@ -1,0 +1,8 @@
+[2015abr28 16:35:25,839][INFO ][][consultarPartidasAbiertas ConsultaPartidasAbiertas.java:85][Iniciando WSConsultaPartidasAbiertas Channel:SIEBEL8 User:SADMIN]
+[2015abr28 16:35:25,897][DEBUG][][consultarPartidasAbiertas ConsultaPartidasAbiertas.java:89][Numero de documento de identificacion:J654788]
+[2015abr28 16:35:25,951][INFO ][][consultarPartidasAbiertas ConsultaPartidasAbiertas.java:97][iniciando invocacion de ZFI_RFC_PART_ABIERTAS_VCOR]
+[2015abr28 16:35:26,006][INFO ][][conectar RFCPartidasAbiertas.java:31][no se ha leido el parametro ClientPoolMaxConnections, utilizando valor por defecto=10]
+[2015abr28 16:35:27,184][DEBUG][][consultarPartidasAbiertas ConsultaPartidasAbiertas.java:107][Conexion a SAP exitosa]
+[2015abr28 16:35:29,260][DEBUG][][consultarPartidasAbiertas ConsultaPartidasAbiertas.java:114][Codigo de retorno:01]
+[2015abr28 16:35:29,288][DEBUG][][consultarPartidasAbiertas ConsultaPartidasAbiertas.java:122][codigo de respuesta para solicitud:01]
+[2015abr28 16:35:29,315][INFO ][][consultarPartidasAbiertas ConsultaPartidasAbiertas.java:169][no existe deudor en SAP con el id suministrado]
